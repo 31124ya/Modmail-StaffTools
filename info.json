@@ -1,6 +1,6 @@
 {
     "name": "stafftools",
-    "version": "2.0.0",
+    "version": "Alpha v0.1",
     "description": [
         "Staff tooling & statistics plugin for Modmail: ?claim / ?addclaim / ?removeclaim",
         "co-working, ?closerequest user-confirmed closes, ?inactivity no-reply auto-close",
