@@ -1,0 +1,4 @@
+# This plugin only depends on what Modmail already ships with:
+# discord.py (>= 2.6, required for Components V2 panels) and motor (async MongoDB).
+# Listed here only to keep the standard plugin repository layout.
+discord.py>=2.6
